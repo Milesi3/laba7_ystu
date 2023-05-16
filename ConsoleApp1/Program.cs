@@ -10,7 +10,9 @@ namespace ConsoleApp1
             Console.WriteLine("Have nice day!");
             Console.WriteLine("Good Job");
 
-            Console.WriteLine("оператор неизвестен");
+            Console.WriteLine("Неизвестный оператор");
+
+            Console.WriteLine("Приветственное собщение");
         }
     }
 }
