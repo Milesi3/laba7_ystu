@@ -13,6 +13,8 @@ namespace ConsoleApp1
             Console.WriteLine("Неизвестный оператор");
 
             Console.WriteLine("Приветственное собщение");
+
+            Console.WriteLine("Завершаем работу");
         }
     }
 }
