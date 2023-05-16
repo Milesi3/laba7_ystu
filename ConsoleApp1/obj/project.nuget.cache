@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YKMnk+b9l01A7q9Y3omT9mWtjqR3NELJaOCLv/qTFmQ+BJXv3mToTApLeo64nCu4/9ZpIWdA85vNliostQUD+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irina\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
